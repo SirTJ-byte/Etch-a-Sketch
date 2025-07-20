@@ -1,0 +1,16 @@
+.containerMain {
+	background-color: yellowgreen;
+	border: 2px solid red;
+	padding: 25px;
+	height: 400px;
+	width: 400px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+.grid-cells {
+	box-sizing: border-box;
+	background-color: magenta;
+	border: 1px solid springgreen;
+}
