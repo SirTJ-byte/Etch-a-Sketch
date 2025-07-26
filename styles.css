@@ -1,7 +1,7 @@
 .containerMain {
 	background-color: yellowgreen;
-	border: 2px solid red;
-	padding: 25px;
+
+	padding: 2px;
 	height: 400px;
 	width: 400px;
 	display: flex;
